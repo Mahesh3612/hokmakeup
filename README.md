@@ -51,7 +51,7 @@ Hok-Makeup is typical women makeup buying website which provides a platform wher
 
 6. Cart Page
 
-<img src="Images/cart.png">
+![000_0101](https://user-images.githubusercontent.com/94233137/158572691-858c8450-f919-4bbb-a9e3-b82d6e22199e.JPG)
 
 7. Checkout Page
 
